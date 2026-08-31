@@ -6,6 +6,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edward-aarstad-822892256)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:edward@aarstad.com)
+![Followers](https://img.shields.io/github/followers/edwardaarstad2?style=social)
+![Stars](https://img.shields.io/github/stars/edwardaarstad2?style=social)
 ![Beer](https://img.shields.io/badge/🍺-Beer%20lover-FFC107?style=flat)
 
 </div>
@@ -13,7 +15,7 @@
 ---
 
 <div align="center">
-<img src="https://media.giphy.com/media/rEo3SBJwNoSmNYmORr/giphy.gif" width="300">
+<img src="assets/cheers.gif" width="300">
 </div>
 
 ---
@@ -43,7 +45,7 @@ Jeg har en bachelorgrad i økonomi og administrasjon, og studerer nå IT og info
 
 | Plattform | Lenke |
 |---|---|
-| LinkedIn | [Edward Aarstad](https://www.linkedin.com/in/edward-aarstad-822892256) |
+| LinkedIn | [edward-aarstad-822892256](https://www.linkedin.com/in/edward-aarstad-822892256) |
 | E-post | [edward@aarstad.com](mailto:edward@aarstad.com) |
 
 ---
