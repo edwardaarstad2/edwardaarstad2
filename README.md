@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hei, jeg er Edward Aarstad 👋
+# 🍻 Skål! Du har funnet Edward Aarstad sitt lille hjørne av internett 👋
 
 ### IT og informasjonssystemer-student | Bachelor i økonomi og administrasjon
 
