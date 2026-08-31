@@ -26,6 +26,8 @@ Jeg har en bachelorgrad i økonomi og administrasjon, og studerer nå IT og info
 
 - 🏒 Spiller ishockey for **KSI Crusaders**
 - 🥍 Spiller lacrosse for **UiA Studs**
+- 👍 [Kudos](https://www.strava.com/athletes/35384492?_gl=1*13vw6ob*_up*MQ..*_gs*MQ..&gclid=EAIaIQobChMInaGQjI_LlgMVdCCiAx1Yyi03EAAYASAAEgIExvD_BwE&gbraid=0AAAAADqMnhAuyMw4YvYZmqfTIL_jqVUFh) betyr mer for selvtilliten min enn det burde
+- 🎉 Setter stor pris på gode fester og sosiale sammenkomster
 
 ## 🛠️ Teknisk stack
 
@@ -43,7 +45,7 @@ Jeg har en bachelorgrad i økonomi og administrasjon, og studerer nå IT og info
 
 | Plattform | Lenke |
 |---|---|
-| LinkedIn | [edward-aarstad-822892256](https://www.linkedin.com/in/edward-aarstad-822892256) |
+| LinkedIn | [Edward Aarstad](https://www.linkedin.com/in/edward-aarstad-822892256) |
 | E-post | [edward@aarstad.com](mailto:edward@aarstad.com) |
 
 ---
