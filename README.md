@@ -14,9 +14,20 @@
 
 ---
 
+<div align="center">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHM4enl6djh6bGtuZW5nYzJ0aXNjMm54MjZreHoxdW5pdDJqNXFydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rEo3SBJwNoSmNYmORr/giphy.gif" width="300">
+</div>
+
+---
+
 ## 🧑‍💻 Om meg
 
 Jeg har en bachelorgrad i økonomi og administrasjon, og studerer nå IT og informasjonssystemer ved Universitet i Agder. Jeg er spesielt interessert i backend-koding, og liker å lære gjennom egne prosjekter.
+
+## 🏆 Utenom studiene
+
+- 🏒 Spiller ishockey for **KSI Crusaders**
+- 🥍 Spiller lacrosse for **UiA Studs**
 
 ## 🛠️ Teknisk stack
 
@@ -34,7 +45,7 @@ Jeg har en bachelorgrad i økonomi og administrasjon, og studerer nå IT og info
 
 | Plattform | Lenke |
 |---|---|
-| LinkedIn | [edward-aarstad-822892256](https://www.linkedin.com/in/edward-aarstad-822892256) |
+| LinkedIn | [Edward Aarstad](https://www.linkedin.com/in/edward-aarstad-822892256) |
 | E-post | [edward@aarstad.com](mailto:edward@aarstad.com) |
 
 ---
