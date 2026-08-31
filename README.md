@@ -27,19 +27,11 @@ Jeg har en bachelorgrad i økonomi og administrasjon, og studerer nå IT og info
 
 <!-- Legg til/bytt ut badges for språk og verktøy du faktisk bruker -->
 
-## 📊 GitHub-statistikk
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edwardaarstad2&show_icons=true&theme=default&hide_border=true)
-
-</div>
-
 ## 📫 Ta kontakt
 
 | Plattform | Lenke |
 |---|---|
-| LinkedIn | [edward-aarstad-822892256](https://www.linkedin.com/in/edward-aarstad-822892256) |
+| LinkedIn | [Edward Aarstad](https://www.linkedin.com/in/edward-aarstad-822892256) |
 | E-post | [edward@aarstad.com](mailto:edward@aarstad.com) |
 
 ---
